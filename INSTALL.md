@@ -1,3 +1,7 @@
+This document explains a setup process collected through Trial&Error.
+
+**Reminder**: As per README.md, TOM is officially UNSUPPORTED on Linux systems. These instructions are provided "as is" with NO WARRANTIES. Any tournament created and/or completed using that setup may be flagged as INVALID.
+
 # Install
 
 To install TOM on Linux, you need to follow multiple steps.
@@ -5,6 +9,8 @@ To install TOM on Linux, you need to follow multiple steps.
 ## Prerequisite
 
 Install the latest Java JDK from Oracle: https://www.oracle.com/uk/java/technologies/downloads/
+
+Note: TOM has not been tested with the latest OpenJDK releases (so far).
 
 ## Download the TOM Mac Installer
 
@@ -23,10 +29,10 @@ The current easiest way to get the TOM files is to get the Mac installer.
 - Extract files from the .dmg file
   - This step depends on your Linux environment.
   - Solution tested on Ubuntu:
-  - Requirements: install p7zip-full and dmg2img
+  - Requirements: install `p7zip-full` and `dmg2img`
   - in a terminal, use `dmg2img Tournament.Operations.Manager-[version].dmg tom.img`
   - in the same terminal, use `7z x tom.img`
-  - The folder Tournament Operation Manager appears and contains multiple folders.
+  - The folder `Tournament Operation Manager` appears and contains multiple folders.
  
 ## Organize TOM files on your computer
 
