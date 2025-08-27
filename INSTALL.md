@@ -16,10 +16,10 @@ Note: TOM has not been tested with the latest OpenJDK releases (so far).
 
 The current easiest way to get the TOM files is to get the Mac installer.
 
-- Go to https://www.pokemon.com/
+- Go to https://play-tools.pokemon.com/tournaments/download-tom
 - Login
 - You must be a Pokémon Professor with the Organizer certification
-- Go to https://www.pokemon.com/us/pokemon-trainer-club/play-pokemon-tournaments/software/ (this link will not work if you aren't an Organizer)
+- Go to https://play-tools.pokemon.com/tournaments/download-tom (this link will not work if you aren't an Organizer)
 - Download the Mac installer (it's a ZIP file)
 
 ## Extract files from the TOM Mac Installer
